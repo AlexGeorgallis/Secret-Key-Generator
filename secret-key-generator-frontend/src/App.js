@@ -112,7 +112,7 @@ const styles = {
     top: 0,
     left: 0,
     flexWrap: "wrap",
-    gap: "5px", 
+    gap: "3px", 
   },
   navTitle: {
     margin: 0,

@@ -1,6 +1,6 @@
 # 🔑 Secret Key Generator
 
-🚀 **LIVE NOW:** [Secret Key Generator]([https://your-app.onrender.com](https://secret-key-generator.onrender.com/))
+🚀 **LIVE NOW:** [Secret Key Generator](https://secret-key-generator.onrender.com/)
 
 [![Secret Key Generator](https://img.shields.io/badge/Built%20With-Spring%20Boot%20&%20React-blue.svg?style=flat-square)](https://spring.io/)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)

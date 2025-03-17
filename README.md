@@ -14,7 +14,7 @@ and copy them to the clipboard instantly.
 <img src="screenshots/screenshot1.png" width="800">
 
 ### **Key Generation**
-<img src="screenshots/key-generated.png" width="800">
+<img src="screenshots/screenshot2.png" width="800">
 
 ---
 

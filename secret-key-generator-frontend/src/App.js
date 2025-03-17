@@ -9,7 +9,7 @@ function App() {
   const generateKey = async () => {
     try {
       const response = await axios.post(
-        `http://localhost:8080/api/generate-key?bits=${bits}`
+        "https://secret-key-generator.onrender.com/api/generate-key?bits=" + bits
       );
       setKey(response.data);
       setCopied(false);

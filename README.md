@@ -3,7 +3,6 @@
 🚀 **LIVE NOW:** [Secret Key Generator](https://secret-key-generator.onrender.com/)
 
 [![Secret Key Generator](https://img.shields.io/badge/Built%20With-Spring%20Boot%20&%20React-blue.svg?style=flat-square)](https://spring.io/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 
 A very easy to use Secret Key Generator built with **Spring boot & React**.
 Users can generate **random secret keys** of different bits (64, 128, 256,...,4096)

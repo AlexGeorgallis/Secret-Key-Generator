@@ -27,9 +27,9 @@ and copy them to the clipboard instantly.
 ---
 
 ## **Tech Stack**
-- **Frontend**: Rect, Axios
+- **Frontend**: React, Axios
 - **Backend**: Spring Boot (Java 17++)
-- **API** RESTful service with SecureRandom
+- **API**: RESTful service with SecureRandom
 - **UI**: CSS
 
 
